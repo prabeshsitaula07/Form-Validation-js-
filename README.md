@@ -14,4 +14,4 @@ Welcome to AwesomeFormValidation, your ultimate destination for an extraordinary
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/prabeshsitaula07/Form-Validation-js.git
+   git clone https://github.com/prabeshsitaula07/Form-Validation-js-.git
